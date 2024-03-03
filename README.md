@@ -22,3 +22,17 @@ Furthermore, I have a particular fondness for games and cats. ( •̀ ω •́ )
 * cn 中文
 * JP 日本語 (Learning)
 * en English (Learning)
+
+### 💻 Work environment.
+
+* pixel 7a Android14
+* iPhone 12 iOS16
+* Workstations with the c612 chipset running Windows 10 and Arch Linux.
+* Workstation with the c612 chipset, powered by OpenCore 9.4, running macOS 14.1.
+
+### 🌱 Projects I'm currently working on <!--{ collapseSection() }-->
+
+* `22%` A complete MaiMai production guide
+* `10%` Revive the once-existing Systemspace.（月計劃）
+* `1%` Rebuild the OC&M group.
+* `25%` A free magazine created by fans of Ruri and Lain. （RuriZine項目）
