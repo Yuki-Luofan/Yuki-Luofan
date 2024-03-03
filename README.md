@@ -1,6 +1,6 @@
 ### 🐱 Hi there, I'm Yuki_Luofan！
 
-My name is Yuki_Luofan, and I am currently 14 years old. I used to attend Dafo Middle School in Tongnan District, Chongqing. I am currently studying programming and computer science, and sometimes I delve into the study of consciousness and conduct social experiments. I have been involved in the design and operation of several projects, with notable ones being Otokonoko and CatisLand. These projects have now been merged into OC&M, where I am primarily responsible for social experiments and knowledge visualization creation. I have found joy in the process of researching these projects, which is great. Additionally, I am trying my hand at a popular science media project, and I hope for its success. Please cheer me on!
+My name is Yuki_Luofan, and I am currently 14 years old. I used to attend Dafo Middle School in Tongnan District, Chongqing. I am currently studying programming and computer science, and sometimes I delve into the study of consciousness and conduct social experiments. I have been involved in the design and operation of several projects, with notable ones being Otokonoko and CatisLand. These projects have now been merged into CatisLand NetWork, where I am primarily responsible for social experiments and knowledge visualization creation. I have found joy in the process of researching these projects, which is great. Additionally, I am trying my hand at a popular science media project, and I hope for its success. Please cheer me on!
 
 Furthermore, I have a particular fondness for games and cats. ( •̀ ω •́ )y
 
@@ -34,5 +34,5 @@ Furthermore, I have a particular fondness for games and cats. ( •̀ ω •́ )
 
 * `22%` A complete MaiMai production guide
 * `10%` Revive the once-existing Systemspace.（月計劃）
-* `1%` Rebuild the OC&M group.
+* `1%` Rebuild the CatisLand NetWork group.
 * `25%` A free magazine created by fans of Ruri and Lain. （RuriZine項目）
