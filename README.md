@@ -35,4 +35,4 @@ Furthermore, I have a particular fondness for games and cats. ( •̀ ω •́ )
 * `22%` A complete MaiMai production guide
 * `10%` Revive the once-existing Systemspace.（月計劃）
 * `1%` Rebuild the CatisLand NetWork group.
-* `25%` A free magazine created by fans of Ruri and Lain. （RuriZine項目）
+* `25%` A free magazine created by fans of Ruri and Lain. （LainZineCn項目）
