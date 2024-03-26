@@ -11,11 +11,11 @@ Furthermore, I have a particular fondness for games and cats. ( •̀ ω •́ )
 
 ### 🥰 Contact me through the following methods. <!--{ collapseSection() }-->
 
-* [Blog](shirleymtf.top) (遇到災情）
-* Telegram [Yuki_Luofan](無了) (等待更新）
+* [Blog](shirleymtf.top) (遇到災情，導向404）
+* Telegram [Yuki_Luofan](無了) (等待更新，導向404）
 * Email yukiluofan@gmail.com
 * Anonymous Question Box: https://peing.net/ja/9f4740af10d404
-* Twitter [@MashiroSaber36](https://twitter.com/MashiroSaber36)
+* Twitter @Luofan_Yuki
   
 ### 🌎 I can speak <!--{ collapseSection() }-->
 
@@ -33,6 +33,6 @@ Furthermore, I have a particular fondness for games and cats. ( •̀ ω •́ )
 ### 🌱 Projects I'm currently working on <!--{ collapseSection() }-->
 
 * `22%` A complete MaiMai production guide
-* `10%` Revive the once-existing Systemspace.（月計劃）
+* `10%`Revive the once-existing Systemspace.（TSUKI Project）
 * `1%` Rebuild the CatisLand NetWork group.
-* `25%` A free magazine created by fans of Ruri and Lain. （LainZineCn項目）
+* `25%` A free magazine created by fans of Ruri and Lain. （LainZineCn Project）
